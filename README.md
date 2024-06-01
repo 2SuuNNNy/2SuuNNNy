@@ -1,8 +1,10 @@
-## Hi there 👋
+### Hi there 👋, my name is aMiNNNe
+#### I am 2SuuNNNy
+![I am 2SuuNNNy](https://cdn.discordapp.com/attachments/1071217730889465866/1116021521522098287/4BBB4528-BA3B-458B-97DC-458A59AB7402.gif?ex=665b3a09&is=6659e889&hm=75cf83a489730d3ed8199c0f1f1c35e53c6e79f964fc0ca8f40d54003396d7df&)
 
-<!--
-**2SuuNNNy/2SuuNNNy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 21 software dev and gamer
 
+Skills: C/C#/P/ JS / HTML / CSS
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
