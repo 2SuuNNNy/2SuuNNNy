@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is aMiNNNe
-#### I am 2SuuNNNy
 ![I am 2SuuNNNy](https://cdn.discordapp.com/attachments/1071217730889465866/1116021521522098287/4BBB4528-BA3B-458B-97DC-458A59AB7402.gif?ex=665b3a09&is=6659e889&hm=75cf83a489730d3ed8199c0f1f1c35e53c6e79f964fc0ca8f40d54003396d7df&)
 
-I am 21 software dev and gamer
 
 <h1 align="center">Hi 👋, I'm 2SuuNNNy</h1>
 <h3 align="center">i m 21 and am software dev and a gamer</h3>
