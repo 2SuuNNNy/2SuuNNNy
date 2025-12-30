@@ -18,7 +18,7 @@
 <a href="https://dev.to/2suunnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="2suunnny" height="30" width="40" /></a>
 <a href="https://twitter.com/2suunnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2suunnny" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amine bigfaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine bigfaine" height="30" width="40" /></a>
-<a href="https://instagram.com/2suunnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2suunnny" height="30" width="40" /></a>
+<a href="[https://instagram.com/2suunnny](https://www.instagram.com/sunnny_r.off/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2suunnny" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/yxDXp3gBQ6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yxDXp3gBQ6" height="30" width="40" /></a>
 </p>
 
