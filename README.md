@@ -9,6 +9,38 @@
 
 <p align="left"> <a href="https://twitter.com/2suunnny" target="blank"><img src="https://img.shields.io/twitter/follow/2suunnny?logo=twitter&style=for-the-badge" alt="2suunnny" /></a> </p>
 
+💻 Full-Stack Web Developer  
+🚀 Building real-world web applications  
+🧠 Always learning & improving
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Tools:** XAMPP, Git, GitHub  
+
+---
+
+## 🔥 What I Do
+
+- Build dynamic web apps with PHP & MySQL  
+- Create responsive and modern UI designs  
+- Work on full projects from idea → deployment  
+- Optimize performance & user experience  
+
+---
+
+## 📌 Current Focus
+
+- Full-stack development  
+- Clean code & scalable systems  
+- Real projects & portfolio growth  
+
+---
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
