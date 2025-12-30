@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is aMiNNNe
-![I am 2SuuNNNy]()
 
 <div align="center">
   <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkyZ2dxbXZ1bmxiMjZodGZzeXd4enppd3NsemtnemhkODZtaXo3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  />
