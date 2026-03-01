@@ -15,7 +15,7 @@ My main areas of interest include frontend architecture, UI/UX engineering, perf
 
 <p align="left"> <a href="https://twitter.com/2suunnny" target="blank"><img src="https://img.shields.io/twitter/follow/2suunnny?logo=twitter&style=for-the-badge" alt="2suunnny" /></a> </p>
 
-💻 Full-Stack Web Developer  
+💻 Frontend Web Developer  
 🚀 Building real-world web applications  
 🧠 Always learning & improving
 
