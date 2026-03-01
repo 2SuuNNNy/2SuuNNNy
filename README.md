@@ -1,5 +1,9 @@
 ### Hi there 👋, my name is Amine Bigfaine
 
+I'm a frontend developer with a strong interest in user interfaces, performance optimization, and modern web architecture. I enjoy building responsive, interactive, and visually polished applications while deeply understanding how browsers render, how JavaScript engines work, and how to optimize user experience at scale.
+
+My main areas of interest include frontend architecture, UI/UX engineering, performance optimization, accessibility, and modern JavaScript frameworks. I’m passionate about writing clean, maintainable code, improving load times, creating smooth animations, and ensuring applications are both secure and scalable from the client side.
+
 <div align="center">
   <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkyZ2dxbXZ1bmxiMjZodGZzeXd4enppd3NsemtnemhkODZtaXo3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  />
 </div>
